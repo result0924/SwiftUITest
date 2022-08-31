@@ -1,2 +1,2 @@
-# swiftUITest
+# SwiftUITest
 swift UI Test Project
